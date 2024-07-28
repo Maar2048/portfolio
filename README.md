@@ -18,7 +18,9 @@ My name is Marcin. WIP
 * [Tester manualny oprogramowania ISTQB](https://dobrekursy.it/tester-manualny/)
 * [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/?course_id=4345304)
 
-## My Test Documentation
+## My Test Documentation (in Polish)
 * For skleptest.pl
   * [Bug Reports](https://github.com/Maar2K/portfolio/blob/main/skleptest.pl/zgloszeniabledow.pdf)
 * For saucedemo.com
+  * [Test plan](https://github.com/Maar2K/portfolio/blob/main/saucedemo.com/plantestow.pdf)
+  * [Test Schedule](https://github.com/Maar2K/portfolio/blob/main/saucedemo.com/harmonogramtestow.pdf)
