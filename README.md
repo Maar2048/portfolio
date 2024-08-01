@@ -34,5 +34,5 @@ In my free time I like to read a good book or play some games.
   * [Test Plan](https://github.com/Maar2K/portfolio/blob/main/saucedemo.com/plantestow.pdf)
   * [Test Schedule](https://github.com/Maar2K/portfolio/blob/main/saucedemo.com/harmonogramtestow.pdf)
   * [Test Report](https://github.com/Maar2K/portfolio/blob/main/saucedemo.com/raportztestow.pdf)
-  * [Test Cases(Test Report from TestLink)](https://github.com/Maar2K/portfolio/blob/main/saucedemo.com/raportztestow_testlink.pdf)
+  * [Test Cases (Test Report from TestLink)](https://github.com/Maar2K/portfolio/blob/main/saucedemo.com/raportztestow_testlink.pdf)
   * [Bug Reports](https://github.com/Maar2K/portfolio/tree/main/saucedemo.com/zgloszeniabledow_jira)
