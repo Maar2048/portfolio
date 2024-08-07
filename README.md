@@ -1,6 +1,6 @@
 ## About me
-My name is Marcin and I am a beginner software tester. This year I've graduated from IT technical school and I've completed the manual tester course. My next step will be passing the ISTQB Foundation Level exam and getting my first job as a software tester.
-In my free time I like to read a good book or play some games.
+My name is Marcin and I am a software tester. This year I graduated from IT technical school and I completed the manual tester course. My next step will be passing the ISTQB Foundation Level exam and getting a job as a software tester.
+In my free time I like to read a good book or play video games.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcin-szyma%C5%84ski-qa/)
 
@@ -38,3 +38,4 @@ In my free time I like to read a good book or play some games.
   * [Test Report](https://github.com/Maar2K/portfolio/blob/main/saucedemo.com/raportztestow.pdf)
   * [Test Cases (Test Report from TestLink)](https://github.com/Maar2K/portfolio/blob/main/saucedemo.com/raportztestow_testlink.pdf)
   * [Bug Reports](https://github.com/Maar2K/portfolio/tree/main/saucedemo.com/zgloszeniabledow_jira)
+* For www.circlek.pl
