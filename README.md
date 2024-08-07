@@ -38,4 +38,5 @@ In my free time I like to read a good book or play video games.
   * [Test Report](https://github.com/Maar2K/portfolio/blob/main/saucedemo.com/raportztestow.pdf)
   * [Test Cases (Test Report from TestLink)](https://github.com/Maar2K/portfolio/blob/main/saucedemo.com/raportztestow_testlink.pdf)
   * [Bug Reports](https://github.com/Maar2K/portfolio/tree/main/saucedemo.com/zgloszeniabledow_jira)
-* For www.circlek.pl
+* For circlek.pl
+  *  [Bug Reports](https://github.com/Maar2K/portfolio/blob/main/CircleK.pdf)
