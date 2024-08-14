@@ -28,15 +28,20 @@ In my free time I like to read a good book or play video games.
 ## Courses
 * [Tester manualny oprogramowania ISTQB](https://dobrekursy.it/tester-manualny/)
 * [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/?course_id=4345304)
+* [Build Your First 3D Game in Unity](https://www.youtube.com/playlist?list=PLrnPJCHvNZuB5ATsJZLKX3AW4V9XaIV9b)
+* [Intro to Godot 4 Game Development](https://academy.zenva.com/product/intro-to-godot-4-game-development/)
+* [Build a First-Person Shooter with Godot 3](https://academy.zenva.com/course/build-a-first-person-shooter-with-godot/)
 
-## My Example Test Documentation (in Polish)
-* For skleptest.pl
+## My Example Test Documentation
+* For skleptest.pl (in Polish)
   * [Bug Reports](https://github.com/Maar2048/portfolio/blob/main/skleptest.pl/zgloszeniabledow.pdf)
-* For saucedemo.com
+* For saucedemo.com (in Polish)
   * [Test Plan](https://github.com/Maar2048/portfolio/blob/main/saucedemo.com/plantestow.pdf)
   * [Test Schedule](https://github.com/Maar2048/portfolio/blob/main/saucedemo.com/harmonogramtestow.pdf)
   * [Test Report](https://github.com/Maar2048/portfolio/blob/main/saucedemo.com/raportztestow.pdf)
   * [Test Cases (Test Report from TestLink)](https://github.com/Maar2048/portfolio/blob/main/saucedemo.com/raportztestow_testlink.pdf)
   * [Bug Reports](https://github.com/Maar2048/portfolio/tree/main/saucedemo.com/zgloszeniabledow_jira)
-* For circlek.pl
-  *  [Bug Reports](https://github.com/Maar2048/portfolio/blob/main/CircleK.pdf)
+* For circlek.pl (in Polish)
+  *  [Bug Reports](https://github.com/Maar2048/portfolio/blob/main/circlek.pl/zgloszeniabledow.pdf)
+* For A Webbing Journey Demo (in English)
+  *  [Bug Reports](https://github.com/Maar2048/portfolio/blob/main/A%20Webbing%20Journey/bugreports.pdf)
