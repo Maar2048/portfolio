@@ -11,6 +11,7 @@ In my free time I like to read a good book or play video games.
 * Version Control Systems: Git, GitHub
 * Management Tools: Jira, Testlink, CMS
 * Operating Systems: Windows, Linux (Ubuntu, Fedora)
+* Game Development: Unity, Godot
 
 ## Soft skills
 * Preciseness and attention to details
