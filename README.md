@@ -1,6 +1,8 @@
 ## About me
-My name is Marcin and I am a software tester. This year I graduated from IT technical school and I completed the manual tester course.
-In my free time I like to read a good book or play video games.
+My name is Marcin and I am passionate about all things IT.
+On a daily basis, I ensure that everything runs like clockwork - resolving hardware and software issues so that users can achieve their goals without interruptions. My experience in software testing allows me to spot small details that could affect everyday work.
+
+In my free time, I like to expand my competences or play a good video game 😀
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcin-szyma%C5%84ski-qa/)
 
@@ -9,7 +11,7 @@ In my free time I like to read a good book or play video games.
 * Languages: PHP, HTML, CSS
 * Testing (basics): DevTools, Postman, OWASP ZAP, Apache JMeter
 * Version Control Systems: Git, GitHub
-* Management Tools: Jira, Testlink, CMS
+* Management Tools: Jira, Testlink, WordPress
 * Operating Systems: Windows, Linux (Ubuntu, Fedora)
 * Game Development: Unity, Godot
 
