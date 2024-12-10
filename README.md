@@ -29,6 +29,7 @@ In my free time, I like to expand my competences or play a good video game 😀
 * Information Technology Technician (351203)
 
 ## Courses
+* [Monitorowanie i rozwiązywanie problemów w sieciach komputerowych](https://szkolenia.dagma.eu/pl/training,catalog,549/monitorowanie-i-rozwiazywanie-problemow-w-sieciach-komputerowych)
 * [Tester manualny oprogramowania ISTQB](https://dobrekursy.it/tester-manualny/)
 * [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/?course_id=4345304)
 * [Build Your First 3D Game in Unity](https://www.youtube.com/playlist?list=PLrnPJCHvNZuB5ATsJZLKX3AW4V9XaIV9b)
