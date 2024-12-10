@@ -14,6 +14,7 @@ In my free time, I like to expand my competences or play a good video game 😀
 * Management Tools: Jira, Testlink, WordPress
 * Operating Systems: Windows, Linux (Ubuntu, Fedora)
 * Game Development: Unity, Godot
+* Network Administration: Zenmap, ZABBIX
 
 ## Soft skills
 * Preciseness and attention to details
