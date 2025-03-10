@@ -51,4 +51,4 @@ In my free time, I like to expand my competences or play a good video game 😀
 * For A Webbing Journey Demo (in English)
   *  [Bug Reports](https://github.com/Maar2048/portfolio/blob/main/A%20Webbing%20Journey/bugreports.pdf)
 * For Fargone (in English)
-  * Bug Reports
+  * [Bug Reports](https://github.com/Maar2048/portfolio/blob/main/Fargone/bugreports.pdf)
