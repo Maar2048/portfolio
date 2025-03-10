@@ -50,3 +50,5 @@ In my free time, I like to expand my competences or play a good video game 😀
   *  [Bug Reports](https://github.com/Maar2048/portfolio/blob/main/circlek.pl/zgloszeniabledow.pdf)
 * For A Webbing Journey Demo (in English)
   *  [Bug Reports](https://github.com/Maar2048/portfolio/blob/main/A%20Webbing%20Journey/bugreports.pdf)
+* For Fargone (in English)
+  * Bug Reports
