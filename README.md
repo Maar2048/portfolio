@@ -41,6 +41,8 @@ In my free time, I like to expand my competences or play a good video game 😀
 ## My C++ projects for college
 * A simple program that asks the user for a name and then checks whether a triangle can be built from the given points. If so, it calculates its perimeter, area, coordinates of the center of gravity and the radius of the circle circumscribing the triangle
    * [Click here](https://github.com/Maar2048/portfolio/blob/main/C%2B%2B/TrojkatABC.cpp)
+* A simple application that analyzes a sequence of integers - calculates the maximum negative number, average of two digit negatives, and the growth of given numbers.
+   * [Click here](https://github.com/Maar2048/portfolio/blob/main/C%2B%2B/CiagLiczb.cpp)
 
 ## My Example Test Documentation
 * For skleptest.pl (in Polish)
