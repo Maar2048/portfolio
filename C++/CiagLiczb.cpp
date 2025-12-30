@@ -34,7 +34,7 @@ int main(){
 
         start=false;
 
-    } while(liczba%2 != 0 || liczba%D != 0 || liczba==0);
+    } while(liczba%2 != 0 || liczba%D != 0);
 
     cout << endl << "Warunek spełniony - podano liczbę parzystą podzielną przez stałą D = " << D << endl;
     cout << "-------------------------------------------------------" << endl;
