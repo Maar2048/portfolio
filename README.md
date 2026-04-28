@@ -38,7 +38,7 @@ In my free time, I like to expand my competences or play a good video game 😀
 * [Intro to Godot 4 Game Development](https://academy.zenva.com/product/intro-to-godot-4-game-development/)
 * [Build a First-Person Shooter with Godot 3](https://academy.zenva.com/course/build-a-first-person-shooter-with-godot/)
 
-## My labs
+## SysAdmin & Networking Labs
 
 ## My C++ projects for college
 * A simple program that asks the user for a name and then checks whether a triangle can be built from the given points. If so, it calculates its perimeter, area, coordinates of the center of gravity and the radius of the circle circumscribing the triangle
