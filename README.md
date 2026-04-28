@@ -9,10 +9,9 @@ In my free time, I like to expand my competences or play a good video game 😀
 ## Tech skills
 * Databases: MySQL
 * Languages: C++, HTML, CSS
-* Testing (basics): DevTools, Postman
 * Version Control Systems: Git, GitHub
-* Management Tools: Jira, Testlink, WordPress
-* Operating Systems: Windows, Linux (Ubuntu, Fedora)
+* Management Tools: Jira, Trello, Testlink, WordPress
+* Operating Systems: Windows, Windows Server, Linux (Ubuntu, Fedora)
 * Game Development: Unity, Godot
 * Network Administration: Zenmap, ZABBIX, Nagios
 
@@ -30,6 +29,7 @@ In my free time, I like to expand my competences or play a good video game 😀
 * Information Technology Technician (351203)
 
 ## Courses
+* [Windows Server 2016 - Praktyczny przewodnik i konfiguracja](https://www.udemy.com/course/windows-server-2016-praktyczny-przewodnik-i-konfiguracja/)
 * [Cyberbezpieczeństwo systemów operacyjnych - OS Security Analyst](https://szkolenia.dagma.eu/pl/training,catalog,46109/cyberbezpieczenstwo-systemow-operacyjnych-os-security-analyst)
 * [Monitorowanie i rozwiązywanie problemów w sieciach komputerowych](https://szkolenia.dagma.eu/pl/training,catalog,549/monitorowanie-i-rozwiazywanie-problemow-w-sieciach-komputerowych)
 * [Tester manualny oprogramowania ISTQB](https://dobrekursy.it/tester-manualny/)
@@ -37,6 +37,8 @@ In my free time, I like to expand my competences or play a good video game 😀
 * [Build Your First 3D Game in Unity](https://www.youtube.com/playlist?list=PLrnPJCHvNZuB5ATsJZLKX3AW4V9XaIV9b)
 * [Intro to Godot 4 Game Development](https://academy.zenva.com/product/intro-to-godot-4-game-development/)
 * [Build a First-Person Shooter with Godot 3](https://academy.zenva.com/course/build-a-first-person-shooter-with-godot/)
+
+## My labs
 
 ## My C++ projects for college
 * A simple program that asks the user for a name and then checks whether a triangle can be built from the given points. If so, it calculates its perimeter, area, coordinates of the center of gravity and the radius of the circle circumscribing the triangle
