@@ -38,13 +38,15 @@ In my free time, I like to expand my competences or play a good video game 😀
 * [Intro to Godot 4 Game Development](https://academy.zenva.com/product/intro-to-godot-4-game-development/)
 * [Build a First-Person Shooter with Godot 3](https://academy.zenva.com/course/build-a-first-person-shooter-with-godot/)
 
+## Books
+* Practical Generative AI with ChatGPT. Unleash your prompt engineering potential with OpenAI technologies for productivity and creativity - Valentina Alto
+
 ## SysAdmin & Networking Labs
+* [Technova Project](https://github.com/Maar2048/portfolio/tree/main/IT%20Infrastructure%20Labs/Technova%20Project)
 
 ## My C++ projects for college
-* A simple program that asks the user for a name and then checks whether a triangle can be built from the given points. If so, it calculates its perimeter, area, coordinates of the center of gravity and the radius of the circle circumscribing the triangle
-   * [Click here](https://github.com/Maar2048/portfolio/blob/main/C%2B%2B/TrojkatABC.cpp)
-* A simple application that analyzes a sequence of integers - calculates the maximum negative number, average of two digit negatives, and the growth of given numbers.
-   * [Click here](https://github.com/Maar2048/portfolio/blob/main/C%2B%2B/CiagLiczb.cpp)
+* Calculator built in QT Creator. It contains some bugs and isn't perfect overall, but it was enough for a good grade :)
+  * [Link](https://github.com/Maar2048/portfolio/tree/main/C%2B%2B/kalkulator)
 
 ## My Example Test Documentation
 * For skleptest.pl (in Polish)
